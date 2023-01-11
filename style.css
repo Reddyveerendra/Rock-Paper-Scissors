@@ -1,5 +1,5 @@
 body {
-  background: url(/img/background.jpg);
+  background: url(https://raw.githubusercontent.com/Reddyveerendra/Rock-Paper-Scissors/main/img/background.jpg);
 }
 div {
   display: flex;
